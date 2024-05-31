@@ -3,7 +3,7 @@
 A very simple pcb and soldering kit or buisness card or both.
 
 <img src="images/biznizz-card_front.jpg" width=300px alt="MINT-Labs Biznizz Card Front"> <img src="images/biznizz-card_back.jpg" width=300px alt="MINT-Labs Biznizz Card Back">
-g
+
 - Status: **Complete**
 - Difficulty: **1/5**
 
